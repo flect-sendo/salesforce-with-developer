@@ -1,6 +1,6 @@
 # 開発者から見たSalesforce
 
-2018/04/12 SF女子部
+2018/04/12 SF女子部#16
 
 ---
 
@@ -9,7 +9,7 @@
 * 株式会社フレクト
 * 仙道あやか
 * alias アキラ or せんさん(not sensan-san)
-* Twitter @sensan_oxo
+* Twitter -> @sensan_oxo
 
 ---
 ## スキル
